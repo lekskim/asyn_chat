@@ -1,0 +1,11 @@
+data_client:
+- first_name
+- last_name
+- birth_date
+- gender
+experience: 5
+data_credits:
+  first_name: Ivan
+  last_name: Ivanov
+  birth_date: 01.01.2000
+  gender: male
