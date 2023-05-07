@@ -1,0 +1,39 @@
+2023-05-03 00:02:03,073 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:02:03,073 ERROR server_log_config.py Ошибка
+2023-05-03 00:02:03,074 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:02:03,074 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:02:14,974 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:02:14,974 ERROR server_log_config.py Ошибка
+2023-05-03 00:02:14,974 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:02:14,974 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:02:32,131 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:02:32,131 ERROR server_log_config.py Ошибка
+2023-05-03 00:02:32,132 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:02:32,132 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:02:37,184 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:02:37,185 ERROR server_log_config.py Ошибка
+2023-05-03 00:02:37,185 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:02:37,185 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:02:50,427 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:02:50,427 ERROR server_log_config.py Ошибка
+2023-05-03 00:02:50,427 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:02:50,427 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:03:16,616 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:03:16,616 ERROR server_log_config.py Ошибка
+2023-05-03 00:03:16,618 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:03:16,618 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:03:51,147 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-05-03 00:03:58,880 INFO server.py Установлено соедение с ПК ('127.0.0.1', 52933)
+2023-05-03 00:03:58,880 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1683061438.8803172, 'user': {'account_name': 'Guest'}}
+2023-05-03 00:03:58,880 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1683061438.8803172, 'user': {'account_name': 'Guest'}}
+2023-05-03 00:03:58,880 INFO server.py Cформирован ответ клиенту {'response': 200}
+2023-05-03 00:03:58,880 DEBUG server.py Соединение с клиентом ('127.0.0.1', 52933) закрывается.
+2023-05-03 00:04:03,240 CRITICAL server_log_config.py Критическая ошибка
+2023-05-03 00:04:03,240 ERROR server_log_config.py Ошибка
+2023-05-03 00:04:03,240 DEBUG server_log_config.py Отладочная информация
+2023-05-03 00:04:03,240 INFO server_log_config.py Информационное сообщение
+2023-05-03 00:04:20,209 INFO server.py Установлено соедение с ПК ('127.0.0.1', 52934)
+2023-05-03 00:04:20,209 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1683061460.2090278, 'user': {'account_name': 'Guest'}}
+2023-05-03 00:04:20,209 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1683061460.2090278, 'user': {'account_name': 'Guest'}}
+2023-05-03 00:04:20,209 INFO server.py Cформирован ответ клиенту {'response': 200}
+2023-05-03 00:04:20,209 DEBUG server.py Соединение с клиентом ('127.0.0.1', 52934) закрывается.
