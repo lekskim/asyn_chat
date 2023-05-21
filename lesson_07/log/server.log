@@ -1,2 +1,0 @@
-[11.05.2023 11:30:46] [INFO] [server_log_config] [Вызвана функция start, с параметрами args = ('', 7777), kwargs = {},	[вызывающий модуль C:\Users\VTB\Documents\asyn_chat\lesson_07\server.py]	[вызывающая функция <module>]	[вызвана в строке 83]	]
-[11.05.2023 11:30:50] [DEBUG] [server_log_config] [run server_log_config.py module]

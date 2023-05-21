@@ -1,4 +1,0 @@
-[08.05.2023 00:07:06] [INFO] [server_log_config] [Вызвана функция start, с параметрами args = ('', 7777), kwargs = {},	[вызывающий модуль C:\Users\VTB\Documents\asyn_chat\lesson_06\server.py]	[вызывающая функция <module>]	[вызвана в строке 96]	]
-[08.05.2023 00:07:06] [INFO] [server_log_config] [Вызвана функция get_socket, с параметрами args = ('', 7777), kwargs = {},	[вызывающий модуль C:\Users\VTB\Documents\asyn_chat\lesson_06\server.py]	[вызывающая функция start]	[вызвана в строке 62]	]
-[08.05.2023 00:07:06] [DEBUG] [server] [Запущен сервер с параметрами: ip = , port = 7777, listen = 5]
-[08.05.2023 00:07:06] [DEBUG] [server] [Ожидание подключения клиента]
