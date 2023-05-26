@@ -15,11 +15,12 @@ from gb_chat.tools.requests import request_msg, request_presence, request_quit
 
 
 class ChatClient:
-    def __init__(self, config: dict):
+    def __init__(self, config: dict, mode: str = "r"):
         self._config = config
         self.encoding = config["encoding"]
         self.socket = socket(AF_INET, SOCK_STREAM)
         self.account = config["account"]
+        self.mode = mode  # Временно, для выполнения ДЗ-7
         self.validator = Validator(config["schema"])
         self.__is_connected = False
 
