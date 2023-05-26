@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 
 from jsonschema import FormatChecker
@@ -31,3 +32,8 @@ class Validator(object):
             field = "-".join(e.absolute_path)
             raise ValidationError("Validate Error, field[{field}], error msg: {msg}"
                                   .format(field=field, msg=e.message))
+=======
+chardet~=5.1.0
+PyYAML~=6.0
+jsonschema~=4.17.3
+>>>>>>> lesson_08_again
