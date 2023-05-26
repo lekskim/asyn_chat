@@ -1,0 +1,2 @@
+[2023-05-17 11:34:54,492]-[CRITICAL]-[server]: schema not found in C:\Users\VTB\Documents\asyn_chat\gb_chat\schemas/action.json
+FileNotFoundError: schema not found in C:\Users\VTB\Documents\asyn_chat\gb_chat\schemas/action.json
