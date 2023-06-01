@@ -1,8 +1,0 @@
-[2023-05-26 23:38:45,398]-[CRITICAL]-[server]: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-FileNotFoundError: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-[2023-05-26 23:41:23,777]-[CRITICAL]-[server]: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-FileNotFoundError: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-[2023-05-26 23:42:39,651]-[CRITICAL]-[server]: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-FileNotFoundError: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-[2023-05-26 23:42:50,422]-[CRITICAL]-[server]: Config is not found or has problem in C:\Users\VTB\Documents\config.json
-FileNotFoundError: Config is not found or has problem in C:\Users\VTB\Documents\config.json
