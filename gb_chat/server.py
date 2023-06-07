@@ -17,7 +17,7 @@ def main():
     server = ChatServer(config)
     logger.info("Server rdy")
     server.run()
-    
+
 
 if __name__ == "__main__":
     try:

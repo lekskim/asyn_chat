@@ -21,7 +21,7 @@ def main():
     except Exception as e:
         logger.critical(e.with_traceback(traceback.print_exc()), exc_info=True)
 
-        
+
 if __name__ == "__main__":
     try:
         main()
