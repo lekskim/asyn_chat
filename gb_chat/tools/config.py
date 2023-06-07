@@ -56,4 +56,4 @@ def config_file(config_path: str, service: str, address: str = None, port: int =
     result["address"] = addr
     result["port"] = port
 
-    return
+    return result
